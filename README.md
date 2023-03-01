@@ -2,8 +2,6 @@
 
 I like to write code and solve problems.
 
-## Donate
+I recently started sharing some [thoughts](https://thoughts.jacobjmarks.dev/).
 
-- [Buy me a coffee :coffee:](https://www.buymeacoffee.com/jacobjmarks)
-
-- [PayPal.Me](https://www.paypal.com/paypalme/jacobmarks)
+[:coffee: Buy me a coffee?](https://www.buymeacoffee.com/jacobjmarks)
